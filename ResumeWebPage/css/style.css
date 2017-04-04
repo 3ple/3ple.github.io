@@ -1,0 +1,239 @@
+body {
+	
+	font-family: conthrax;
+}
+
+.container {
+	background-color: #f89a1e;
+	height: 1280px;
+	width: 960px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.column1 {
+	background-color: #f89a1e;
+	height: 100%;
+}
+
+.column2 {
+	background-color: #e7e7e7;
+	height: 100%;
+	padding-left: 20px;
+}
+
+.pic {
+	margin-top: 20px;
+}
+
+
+ul {
+
+	padding-left: 20px;
+	margin: 7px 0px 0px 0px;
+
+}
+
+ul li {
+	list-style-type: none;
+	font-size: 10px;
+	font-style: italic;
+	color: gray;
+}
+
+article {
+
+	color: white;
+	font-size: 13px;
+	font-style: italic;
+	margin-left: 30px;
+	padding-right: 25px;
+}
+
+p {
+	margin: 0;
+}
+
+h1 {
+	font-size: 18px;
+	margin-top: 15px;
+}
+
+h2 {
+	font-size: 15px;
+	padding-top: 5px;
+	margin-top: 20px;
+	margin-bottom: 5px;
+	text-decoration: underline;
+}
+
+h3 {
+	font-size: 13px;
+}
+
+h4 {
+	font-size: 13px;
+	color: #f89a1e;
+	margin: 0px;
+}
+
+.cpe {
+	color: white;
+	margin-top: 0px;
+	text-decoration: none;
+}
+
+/* orange */
+
+.placeholder{
+
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.placeholderorange {
+
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-bottom-color: #e7e7e7;
+	border-bottom-style: dotted;
+}
+
+
+.headerleft {
+
+	margin-top: 20px;
+	margin-bottom: 20px;
+	
+}
+
+
+.contactcontents {
+
+	margin-top: 25px;
+	margin-bottom: 15px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+
+
+.personalcontents {
+
+	margin-top: 10px;
+	margin-bottom: 0px;
+	margin-left: 20px;
+	margin-right: 10px;
+
+}
+
+
+.personalrow {
+	margin-bottom: 90px;
+}
+
+
+/* gray */
+
+
+.placeholdergray {
+
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-bottom-color: #f89a1e;
+	border-bottom-style: dotted;
+}
+
+.headerright {
+
+	margin-top: 10px;
+	margin-bottom: 2px;
+
+}
+
+.work, .educ, .profskills {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.working, .education, .profession, .referrences {
+
+	margin-right: 15px;
+}
+
+.ref {
+
+	margin-top: 10px;
+	margin-bottom: 15px;
+	margin-left: 5px;
+}
+
+.refcont {
+
+	padding: 0px;
+}
+
+.refrow {
+	margin-bottom: 56px;
+}
+
+
+.first	{
+	font-size: 10px;
+	color: black;
+}
+
+.second {
+	font-size: 12px;
+	color: #f89a1e;
+}
+
+.third {
+	font-size: 9px;
+	color: gray;
+	font-style: italic;
+}
+
+.large {
+	font-size: 12px;
+	color: black;
+}
+.medium {
+	font-size: 10px;
+	color: #f89a1e;
+}
+
+.small {
+	font-size: 9px;
+	color: gray;
+	font-style: italic;
+}
+
+.date {
+	font-style: italic;
+	font-size: 9px;
+	color: black;
+	padding-top: 15px;
+	text-align: right;
+}
+
+
+.location, .phone, .email {
+
+	padding-left: 0px;
+}
+
+
+.communicationimg, .creativityimg, .teamworkimg, .comprehensionimg, .motivationimg {
+	margin-top: 20px;
+
+}
+.row1b, .row7b, .row12b, .row16b{
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+
+.holder {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
